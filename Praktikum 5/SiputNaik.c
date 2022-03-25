@@ -4,6 +4,7 @@
                 kenaikan sebesar 0.3 meter, sedangkan setiap malam hari akan mengalami penurunan sebesar
                 0.1 meter. Menghitung berapa hari yang dibutuhkan sampai siput keluar.*/
 /*Pembuat       : Ahmad Muhajir*/
+/*Tgl Pembuatan : Jumat, 25 Maret 2022*/
 
 #include <stdio.h>
 
