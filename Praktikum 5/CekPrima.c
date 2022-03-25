@@ -1,6 +1,7 @@
 /*Nama File     : CekPrima.c*/
 /*Deskripsi     : mengecek apakah bilangan prima*/
 /*Pembuat       : Ahmad Muhajir*/
+/*Tgl Pembuatan : Jumat, 25 Maret 2022*/
 
 #include <stdio.h>
 #include <stdlib.h>
